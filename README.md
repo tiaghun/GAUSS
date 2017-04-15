@@ -1,2 +1,4 @@
 # GAUSS
-A scripting lanuage for drawing simple graphics in an interactive shell.
+The Generic Animation Unicode Scripting Software (GAUSS) is a set of bindings for an interactive shell designed to simplify and streamline the process of drawing simple graphics using the native functions in an interactive shell. It is useful for drawing in a CLI environment as well as for graphics used by command line programmes. GAUSS was built and tested in a BASH environment on macOS, however it should be compatible with most other Bourne-compatible shells as well as most Linux distributions and Unix flavours (i.e. FreeBSD). The current release is macOS specific so it will have to be installed manually on other systems by appending the contents of *gauss.bindings* to your shell profile (i.e. `FOO=$(cat gauss.bindings); echo "$FOO" >> .bash_profile`).
+
+See the Wiki for more info
