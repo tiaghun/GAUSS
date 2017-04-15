@@ -1,0 +1,1 @@
+cat ~/GAUSS/demo/demoA; sleep 4; cat ~/GAUSS/demo/demoB0; sleep 1; cat ~/GAUSS/demo/demoB1; sleep 1; cat ~/GAUSS/demo/demoB2; sleep 1; cat ~/GAUSS/demo/demoB1; sleep 1; cat ~/GAUSS/demo/demoB2; sleep 1; cat ~/GAUSS/demo/demoB0; sleep 1; cat ~/GAUSS/demo/demoA;
