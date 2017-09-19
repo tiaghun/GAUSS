@@ -1,103 +1,103 @@
 #!/bin/bash
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/0
+cat ~/GAUSS/demo/progress\ animation/0
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/2
+cat ~/GAUSS/demo/progress\ animation/2
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/4
+cat ~/GAUSS/demo/progress\ animation/4
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/6
+cat ~/GAUSS/demo/progress\ animation/6
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/8
+cat ~/GAUSS/demo/progress\ animation/8
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/10
+cat ~/GAUSS/demo/progress\ animation/10
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/12
+cat ~/GAUSS/demo/progress\ animation/12
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/14
+cat ~/GAUSS/demo/progress\ animation/14
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/16
+cat ~/GAUSS/demo/progress\ animation/16
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/18
+cat ~/GAUSS/demo/progress\ animation/18
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/20
+cat ~/GAUSS/demo/progress\ animation/20
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/22
+cat ~/GAUSS/demo/progress\ animation/22
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/24
+cat ~/GAUSS/demo/progress\ animation/24
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/26
+cat ~/GAUSS/demo/progress\ animation/26
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/28
+cat ~/GAUSS/demo/progress\ animation/28
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/30
+cat ~/GAUSS/demo/progress\ animation/30
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/32
+cat ~/GAUSS/demo/progress\ animation/32
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/34
+cat ~/GAUSS/demo/progress\ animation/34
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/36
+cat ~/GAUSS/demo/progress\ animation/36
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/38
+cat ~/GAUSS/demo/progress\ animation/38
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/40
+cat ~/GAUSS/demo/progress\ animation/40
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/42
+cat ~/GAUSS/demo/progress\ animation/42
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/44
+cat ~/GAUSS/demo/progress\ animation/44
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/46
+cat ~/GAUSS/demo/progress\ animation/46
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/48
+cat ~/GAUSS/demo/progress\ animation/48
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/50
+cat ~/GAUSS/demo/progress\ animation/50
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/52
+cat ~/GAUSS/demo/progress\ animation/52
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/54
+cat ~/GAUSS/demo/progress\ animation/54
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/56
+cat ~/GAUSS/demo/progress\ animation/56
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/58
+cat ~/GAUSS/demo/progress\ animation/58
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/60
+cat ~/GAUSS/demo/progress\ animation/60
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/62
+cat ~/GAUSS/demo/progress\ animation/62
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/64
+cat ~/GAUSS/demo/progress\ animation/64
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/66
+cat ~/GAUSS/demo/progress\ animation/66
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/68
+cat ~/GAUSS/demo/progress\ animation/68
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/70
+cat ~/GAUSS/demo/progress\ animation/70
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/72
+cat ~/GAUSS/demo/progress\ animation/72
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/74
+cat ~/GAUSS/demo/progress\ animation/74
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/76
+cat ~/GAUSS/demo/progress\ animation/76
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/78
+cat ~/GAUSS/demo/progress\ animation/78
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/80
+cat ~/GAUSS/demo/progress\ animation/80
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/82
+cat ~/GAUSS/demo/progress\ animation/82
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/84
+cat ~/GAUSS/demo/progress\ animation/84
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/86
+cat ~/GAUSS/demo/progress\ animation/86
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/88
+cat ~/GAUSS/demo/progress\ animation/88
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/90
+cat ~/GAUSS/demo/progress\ animation/90
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/92
+cat ~/GAUSS/demo/progress\ animation/92
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/94
+cat ~/GAUSS/demo/progress\ animation/94
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/96
+cat ~/GAUSS/demo/progress\ animation/96
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/98
+cat ~/GAUSS/demo/progress\ animation/98
 sleep 0.5
-cat /home/administrator/Desktop/.base4/cpu/system/framework/aesthetic/progress/100
+cat ~/GAUSS/demo/progress\ animation/100
 sleep 1
