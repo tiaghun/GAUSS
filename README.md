@@ -9,6 +9,9 @@ See the Wiki for more info [[https://github.com/tiaghun/GAUSS/wiki]
 The only requirement for v2 to work is a copy of Zsh v5.8 installed or symlinked to `/bin/zsh`. For those wanting to use GAUSS to colorize or draw graphics in your shell scripts simply include a `source /path/to/GAUSS` line at the top and include a copy of the GAUSS file with your script. I recommend something like this for good portability:
 
 *In the top of your script, with GAUSS included in the same directory as your script*
-`cd "${0%/*}"`
-`source ./GAUSS`
-`rest of script here`
+
+>`cd "${0%/*}"`
+>
+>`source ./GAUSS`
+>
+>`rest of script here`
